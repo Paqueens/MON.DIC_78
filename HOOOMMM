@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+ <nav>
+   <h2>Jacob.</h2>
+   <ul>
+     <li>
+       <a href="">Home</a>
+     </li>
+     <li>
+       <a href="">About</a>
+     </li>
+     <li>
+       <a href="">Services</a>
+     </li>
+     <li>
+       <a href="">Portfolio</a>
+     </li>
+   </ul>
+  </nav>
+<div class="moi">
+  <h1>Hi, I am Jack Haiden</h1><br>
+  <h3>Frontend Developper</h3><br>
+  <p>Personal Portfolio Website using HTML & CSS</p>
+</div>
+<div class="toi"><br>
+  <button>Hire Me</button>
+  <button>Let's talk</button>
+</div>
+</body>
+</html>
